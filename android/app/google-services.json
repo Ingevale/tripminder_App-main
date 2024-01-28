@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17167335214",
+    "project_id": "tripminder-app",
+    "storage_bucket": "tripminder-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17167335214:android:b2e01fff59c2e53cb684bf",
+        "android_client_info": {
+          "package_name": "com.example.tripminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBddXGzaYQBb9gi-D2RCqa7qrQ1xwvmDQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
